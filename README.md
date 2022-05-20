@@ -1,10 +1,10 @@
 ### Oi, eu sou o Francisco👋
 
-<div class="row">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xikin&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xikin&layout=compact&theme=tokyonight)
-</div>
+
 ##
  
 <div> 
