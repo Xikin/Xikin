@@ -4,9 +4,6 @@
 
 <h3 align="center">Backend Developer</h3>
 
-
----
-
 ## Stack
 
 **Back-end**
